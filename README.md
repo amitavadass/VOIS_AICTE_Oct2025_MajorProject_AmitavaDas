@@ -101,10 +101,10 @@ Upload the dataset (Netflix Dataset.csv) or connect Google Drive
 
 Run all cells to perform:
 
-Preprocessing
+   Preprocessing
 
-EDA
+   EDA
 
-Visualization
+   Visualization
 
-Insight generation
+   Insight generation
